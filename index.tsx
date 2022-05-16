@@ -203,3 +203,4 @@ while ($count < 10)
   # returns false and prints nothing
   HEADER.log.pi,int.loop
   override key
+  HTMLHeadElement.log.pi.int.pi.loop
